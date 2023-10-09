@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+section{
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+.card_1 .card .card-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_1 .card{
+    background: yellow;
+}
+
+.card_1 .card .card-body .fa-clipboard{
+    font-size: 5rem;
+}
+
+.card_1 .card .card-body .p{
+    font-size: 16rem;
+    font-weight: bold;
+}
+
+
+.card_2 .card .card-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_2 .card{
+    background: red;
+}
+
+.card_2 .card .card-body .fa-clipboard{
+    font-size: 5rem;
+}
+
+.card_2 .card .card-body .p{
+    font-size: 16rem;
+    font-weight: bold;
+}
+
+
+.card_1 .card .card-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_1 .card{
+    background: yellow;
+}
+
+.card_1 .card .card-body .fa-clipboard{
+    font-size: 5rem;
+}
+
+.card_1 .card .card-body .p{
+    font-size: 16rem;
+    font-weight: bold;
+}
+
+
+.card_1 .card .card-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_1 .card{
+    background: yellow;
+}
+
+.card_1 .card .card-body .fa-clipboard{
+    font-size: 5rem;
+}
+
+.card_1 .card .card-body .p{
+    font-size: 16rem;
+    font-weight: bold;
+}
